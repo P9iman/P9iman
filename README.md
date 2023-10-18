@@ -1,4 +1,4 @@
-## ITS-Praktikumsaufgaben und anderen Code 
+## ITS-Praktikumsaufgaben
 
 
 
